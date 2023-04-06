@@ -1,0 +1,79 @@
+[
+    {
+        "firstname": "Suhail",
+        "lastname": "Roushan",
+        "email": "suhail@gmail.com",
+        "phone": "+919618211626",
+        "address": "Hyderabad"
+    },
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "email": "johndoe@example.com",
+        "phone": "+1-555-555-1234",
+        "address": "123 Main Street"
+    },
+    {
+        "firstname": "Jane",
+        "lastname": "Doe",
+        "email": "janedoe@example.com",
+        "phone": "+1-555-555-5678",
+        "address": "456 Maple Avenue"
+    },
+    {
+        "firstname": "Bob",
+        "lastname": "Smith",
+        "email": "bobsmith@example.com",
+        "phone": "+1-555-555-9876",
+        "address": "789 Oak Street"
+    },
+    {
+        "firstname": "Alice",
+        "lastname": "Johnson",
+        "email": "alicejohnson@example.com",
+        "phone": "+1-555-555-2468",
+        "address": "10 Elm Road"
+    },
+    {
+        "firstname": "David",
+        "lastname": "Lee",
+        "email": "davidlee@example.com",
+        "phone": "+1-555-555-1357",
+        "address": "321 Pine Lane"
+    },
+    {
+        "firstname": "Amy",
+        "lastname": "Chen",
+        "email": "amychen@example.com",
+        "phone": "+1-555-555-3690",
+        "address": "654 Cedar Street"
+    },
+    {
+        "firstname": "Eric",
+        "lastname": "Wong",
+        "email": "ericwong@example.com",
+        "phone": "+1-555-555-8024",
+        "address": "987 Birch Avenue"
+    },
+    {
+        "firstname": "Maria",
+        "lastname": "Garcia",
+        "email": "mariagarcia@example.com",
+        "phone": "+1-555-555-0246",
+        "address": "753 Oakwood Drive"
+    },
+    {
+        "firstname": "William",
+        "lastname": "Brown",
+        "email": "williambrown@example.com",
+        "phone": "+1-555-555-4680",
+        "address": "246 Maple Street"
+    },
+    {
+        "firstname": "Laura",
+        "lastname": "Taylor",
+        "email": "laurataylor@example.com",
+        "phone": "+1-555-555-8023",
+        "address": "369 Elm Avenue"
+    }
+]
