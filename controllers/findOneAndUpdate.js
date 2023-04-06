@@ -16,3 +16,7 @@ async function findOneAndUpdate() {
 }
 
 findOneAndUpdate();
+
+//In summary, findOneAndReplace replaces the entire matched 
+// document with a new document, while findOneAndUpdate 
+// updates one or more fields of the matched document.
