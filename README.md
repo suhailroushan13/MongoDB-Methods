@@ -26,6 +26,7 @@
 ```bash
 git clone git@github.com:suhailroushan13/MongoDB-Methods.git
 cd MongoDB-Methods
+npm install
 
 ```
 
